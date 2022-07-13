@@ -4,8 +4,8 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [**The Toadi Order**](toadi.com)
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/ashwin-bose-a66a9234)
+- 🏢 Senior Robotics Software Engineer at [**Dyson**](https://www.dyson.co.uk/en)
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/atb033)
 - 🕸️ Read more at my [personal website](https://atb033.github.io)
 
 ##### My Stats
