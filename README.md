@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Robotics Software Developer working in Brussels, Belgium.
+#### I'm a Robotics Software Developer based on Bristol, UK.
 
 ##### BIO
 
