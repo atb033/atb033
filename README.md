@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 Lead Robotics Software Engineer at [**Dyson**](https://www.dyson.co.uk/en)
+- 🏢 Senior Robotics Software Engineer at [**Kudan**](https://www.kudan.io/)
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/atb033)
 - 🕸️ Read more at my [personal website](https://atb033.github.io)
 
